@@ -1,1 +1,1 @@
-<hn>My Website</hn>
+<h1>My Website</h1>
