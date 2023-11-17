@@ -1,6 +1,9 @@
-body{
+@font-face{
   font-family : "けいふぉんと";
   src : url("keifont.ttf") format("truetype");
-  color : red;
 }
 
+body{
+  font-family : "けいふぉんと";
+  color : red;
+}
