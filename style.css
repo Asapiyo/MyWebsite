@@ -1,6 +1,6 @@
 @font-face{
   font-family : "けいふぉんと";
-  src : url("keifont.ttf") format("truetype");
+  src : url("./fonts/keifont.ttf") format("truetype");
 }
 
 body{
